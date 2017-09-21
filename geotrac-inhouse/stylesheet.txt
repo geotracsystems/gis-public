@@ -1,0 +1,1631 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-aerodrome {
+    width: 10px;
+    height: 9px;
+    background-position: -5px -5px;
+}
+
+.sprite-aerodrome-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -5px;
+}
+
+.sprite-aiga_parking1 {
+    width: 80px;
+    height: 80px;
+    background-position: -51px -5px;
+}
+
+.sprite-airport {
+    width: 14px;
+    height: 11px;
+    background-position: -141px -5px;
+}
+
+.sprite-airport-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -165px -5px;
+}
+
+.sprite-airport_icon {
+    width: 20px;
+    height: 20px;
+    background-position: -191px -5px;
+}
+
+.sprite-allotments {
+    width: 30px;
+    height: 6px;
+    background-position: -221px -5px;
+}
+
+.sprite-alpinehut-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -261px -5px;
+}
+
+.sprite-amenity_court-p-20 {
+    width: 20px;
+    height: 20px;
+    background-position: -287px -5px;
+}
+
+.sprite-amenity_prison-p-20 {
+    width: 20px;
+    height: 20px;
+    background-position: -317px -5px;
+}
+
+.sprite-arrow {
+    width: 74px;
+    height: 8px;
+    background-position: -347px -5px;
+}
+
+.sprite-arrow_back {
+    width: 74px;
+    height: 8px;
+    background-position: -431px -5px;
+}
+
+.sprite-atm {
+    width: 25px;
+    height: 11px;
+    background-position: -221px -23px;
+}
+
+.sprite-atm2-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -347px -23px;
+}
+
+.sprite-bandb-p-20 {
+    width: 20px;
+    height: 12px;
+    background-position: -373px -23px;
+}
+
+.sprite-bank2-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -403px -23px;
+}
+
+.sprite-bar-p-20 {
+    width: 20px;
+    height: 20px;
+    background-position: -429px -23px;
+}
+
+.sprite-beach {
+    width: 10px;
+    height: 10px;
+    background-position: -459px -23px;
+}
+
+.sprite-biergarten-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -479px -23px;
+}
+
+.sprite-bollard {
+    width: 3px;
+    height: 3px;
+    background-position: -505px -23px;
+}
+
+.sprite-bus_station-n-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -5px -49px;
+}
+
+.sprite-bus_stop {
+    width: 30px;
+    height: 12px;
+    background-position: -141px -36px;
+}
+
+.sprite-bus_stop-p-12 {
+    width: 12px;
+    height: 12px;
+    background-position: -181px -49px;
+}
+
+.sprite-bus_stop_small {
+    width: 6px;
+    height: 6px;
+    background-position: -31px -49px;
+}
+
+.sprite-cable_car {
+    width: 28px;
+    height: 3px;
+    background-position: -5px -36px;
+}
+
+.sprite-cafe-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -203px -49px;
+}
+
+.sprite-camping-n-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -229px -49px;
+}
+
+.sprite-car_share-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -255px -49px;
+}
+
+.sprite-caravan_park-p-24 {
+    width: 24px;
+    height: 24px;
+    background-position: -281px -36px;
+}
+
+.sprite-cemetery_jewish-18 {
+    width: 18px;
+    height: 18px;
+    background-position: -315px -49px;
+}
+
+.sprite-chair_lift {
+    width: 30px;
+    height: 5px;
+    background-position: -343px -49px;
+}
+
+.sprite-chalet-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -383px -49px;
+}
+
+.sprite-christian3-p-14 {
+    width: 14px;
+    height: 14px;
+    background-position: -459px -49px;
+}
+
+.sprite-cinema-p-24 {
+    width: 24px;
+    height: 24px;
+    background-position: -483px -49px;
+}
+
+.sprite-cliff {
+    width: 15px;
+    height: 4px;
+    background-position: -5px -83px;
+}
+
+.sprite-cliff2 {
+    width: 15px;
+    height: 6px;
+    background-position: -141px -83px;
+}
+
+.sprite-communications-p-20 {
+    width: 20px;
+    height: 20px;
+    background-position: -166px -83px;
+}
+
+.sprite-cs {
+    width: 20px;
+    height: 20px;
+    background-position: -196px -83px;
+}
+
+.sprite-danger {
+    width: 30px;
+    height: 30px;
+    background-position: -226px -83px;
+}
+
+.sprite-department_store-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -266px -83px;
+}
+
+.sprite-embassy {
+    width: 12px;
+    height: 12px;
+    background-position: -292px -83px;
+}
+
+.sprite-fast_food {
+    width: 16px;
+    height: 16px;
+    background-position: -314px -83px;
+}
+
+.sprite-firestation-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -340px -83px;
+}
+
+.sprite-florist-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -366px -83px;
+}
+
+.sprite-food_bar-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -392px -83px;
+}
+
+.sprite-food_drinkingtap-p-20 {
+    width: 20px;
+    height: 20px;
+    background-position: -418px -83px;
+}
+
+.sprite-forest {
+    width: 21px;
+    height: 24px;
+    background-position: -448px -83px;
+}
+
+.sprite-fuel-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -479px -83px;
+}
+
+.sprite-gas {
+    width: 5px;
+    height: 5px;
+    background-position: -30px -83px;
+}
+
+.sprite-gate {
+    width: 4px;
+    height: 5px;
+    background-position: -505px -83px;
+}
+
+.sprite-gate2 {
+    width: 7px;
+    height: 5px;
+    background-position: -409px -49px;
+}
+
+.sprite-glacier {
+    width: 40px;
+    height: 32px;
+    background-position: -5px -117px;
+}
+
+.sprite-glacier2 {
+    width: 70px;
+    height: 56px;
+    background-position: -55px -109px;
+}
+
+.sprite-grave_yard {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -109px;
+}
+
+.sprite-grave_yard_generic {
+    width: 16px;
+    height: 16px;
+    background-position: -266px -109px;
+}
+
+.sprite-guest_house-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -292px -109px;
+}
+
+.sprite-halt {
+    width: 4px;
+    height: 4px;
+    background-position: -5px -98px;
+}
+
+.sprite-helipad-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -318px -109px;
+}
+
+.sprite-hospital {
+    width: 20px;
+    height: 20px;
+    background-position: -344px -109px;
+}
+
+.sprite-hospital-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -374px -109px;
+}
+
+.sprite-hostel-p-20 {
+    width: 20px;
+    height: 20px;
+    background-position: -479px -109px;
+}
+
+.sprite-hotel2-p-20 {
+    width: 20px;
+    height: 20px;
+    background-position: -135px -139px;
+}
+
+.sprite-information-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -165px -139px;
+}
+
+.sprite-islamic3-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -191px -139px;
+}
+
+.sprite-jewish3-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -217px -139px;
+}
+
+.sprite-landfill {
+    width: 16px;
+    height: 16px;
+    background-position: -243px -139px;
+}
+
+.sprite-level_crossing {
+    width: 7px;
+    height: 7px;
+    background-position: -400px -109px;
+}
+
+.sprite-level_crossing2 {
+    width: 11px;
+    height: 11px;
+    background-position: -269px -139px;
+}
+
+.sprite-library-p-20 {
+    width: 20px;
+    height: 20px;
+    background-position: -290px -139px;
+}
+
+.sprite-liftgate {
+    width: 7px;
+    height: 5px;
+    background-position: -320px -139px;
+}
+
+.sprite-lighthouse-p-20 {
+    width: 20px;
+    height: 20px;
+    background-position: -337px -139px;
+}
+
+.sprite-lock_gate {
+    width: 9px;
+    height: 9px;
+    background-position: -367px -139px;
+}
+
+.sprite-london-tube-24 {
+    width: 24px;
+    height: 24px;
+    background-position: -386px -139px;
+}
+
+.sprite-major_cities {
+    width: 13px;
+    height: 13px;
+    background-position: -420px -139px;
+}
+
+.sprite-major_cities_11 {
+    width: 11px;
+    height: 11px;
+    background-position: -443px -139px;
+}
+
+.sprite-major_cities_13 {
+    width: 13px;
+    height: 13px;
+    background-position: -464px -139px;
+}
+
+.sprite-major_cities_15 {
+    width: 15px;
+    height: 15px;
+    background-position: -487px -139px;
+}
+
+.sprite-marsh {
+    width: 30px;
+    height: 30px;
+    background-position: -5px -162px;
+}
+
+.sprite-memorial {
+    width: 16px;
+    height: 16px;
+    background-position: -420px -164px;
+}
+
+.sprite-military_red {
+    width: 16px;
+    height: 16px;
+    background-position: -446px -164px;
+}
+
+.sprite-military_red_hz2 {
+    width: 24px;
+    height: 24px;
+    background-position: -472px -164px;
+}
+
+.sprite-military_restraint2 {
+    width: 16px;
+    height: 16px;
+    background-position: -45px -198px;
+}
+
+.sprite-mini_round {
+    width: 9px;
+    height: 9px;
+    background-position: -269px -164px;
+}
+
+.sprite-mosque {
+    width: 16px;
+    height: 16px;
+    background-position: -71px -198px;
+}
+
+.sprite-mot_shield1 {
+    width: 17px;
+    height: 17px;
+    background-position: -97px -198px;
+}
+
+.sprite-mot_shield2 {
+    width: 24px;
+    height: 17px;
+    background-position: -124px -198px;
+}
+
+.sprite-mot_shield3 {
+    width: 31px;
+    height: 17px;
+    background-position: -158px -198px;
+}
+
+.sprite-mot_shield4 {
+    width: 38px;
+    height: 17px;
+    background-position: -199px -198px;
+}
+
+.sprite-mot_shield5 {
+    width: 45px;
+    height: 17px;
+    background-position: -247px -198px;
+}
+
+.sprite-mot_shield6 {
+    width: 52px;
+    height: 17px;
+    background-position: -302px -198px;
+}
+
+.sprite-mot_shield7 {
+    width: 59px;
+    height: 17px;
+    background-position: -364px -198px;
+}
+
+.sprite-mot_shield8 {
+    width: 66px;
+    height: 17px;
+    background-position: -433px -198px;
+}
+
+.sprite-motel-p-20 {
+    width: 20px;
+    height: 20px;
+    background-position: -5px -225px;
+}
+
+.sprite-motorway_shield1 {
+    width: 17px;
+    height: 17px;
+    background-position: -35px -225px;
+}
+
+.sprite-motorway_shield2 {
+    width: 24px;
+    height: 17px;
+    background-position: -62px -225px;
+}
+
+.sprite-motorway_shield3 {
+    width: 31px;
+    height: 17px;
+    background-position: -96px -225px;
+}
+
+.sprite-motorway_shield4 {
+    width: 38px;
+    height: 17px;
+    background-position: -137px -225px;
+}
+
+.sprite-motorway_shield5 {
+    width: 45px;
+    height: 17px;
+    background-position: -185px -225px;
+}
+
+.sprite-motorway_shield6 {
+    width: 52px;
+    height: 17px;
+    background-position: -240px -225px;
+}
+
+.sprite-mud {
+    width: 10px;
+    height: 10px;
+    background-position: -302px -225px;
+}
+
+.sprite-museum-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -322px -225px;
+}
+
+.sprite-nature_reserve {
+    width: 21px;
+    height: 24px;
+    background-position: -348px -225px;
+}
+
+.sprite-nature_reserve2 {
+    width: 42px;
+    height: 48px;
+    background-position: -379px -225px;
+}
+
+.sprite-nature_reserve2T {
+    width: 42px;
+    height: 48px;
+    background-position: -431px -225px;
+}
+
+.sprite-nature_reserve5 {
+    width: 21px;
+    height: 24px;
+    background-position: -483px -225px;
+}
+
+.sprite-nature_reserve6 {
+    width: 42px;
+    height: 48px;
+    background-position: -5px -283px;
+}
+
+.sprite-nature_reserveT {
+    width: 21px;
+    height: 24px;
+    background-position: -57px -259px;
+}
+
+.sprite-oil {
+    width: 5px;
+    height: 5px;
+    background-position: -19px -98px;
+}
+
+.sprite-orchard {
+    width: 10px;
+    height: 10px;
+    background-position: -5px -259px;
+}
+
+.sprite-parking {
+    width: 16px;
+    height: 16px;
+    background-position: -88px -259px;
+}
+
+.sprite-parking-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -114px -259px;
+}
+
+.sprite-parking_private-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -140px -259px;
+}
+
+.sprite-peak {
+    width: 8px;
+    height: 8px;
+    background-position: -367px -164px;
+}
+
+.sprite-pharmacy-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -166px -259px;
+}
+
+.sprite-picnic-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -192px -259px;
+}
+
+.sprite-pint {
+    width: 12px;
+    height: 18px;
+    background-position: -218px -259px;
+}
+
+.sprite-place_of_worship {
+    width: 16px;
+    height: 16px;
+    background-position: -240px -259px;
+}
+
+.sprite-place_of_worship3 {
+    width: 10px;
+    height: 10px;
+    background-position: -25px -259px;
+}
+
+.sprite-place_of_worship3-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -266px -259px;
+}
+
+.sprite-playground-p-20 {
+    width: 20px;
+    height: 20px;
+    background-position: -292px -259px;
+}
+
+.sprite-poi_cave-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -322px -259px;
+}
+
+.sprite-police-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -348px -259px;
+}
+
+.sprite-post_box {
+    width: 16px;
+    height: 16px;
+    background-position: -483px -259px;
+}
+
+.sprite-post_box-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -88px -285px;
+}
+
+.sprite-post_office {
+    width: 16px;
+    height: 16px;
+    background-position: -114px -285px;
+}
+
+.sprite-post_office-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -140px -285px;
+}
+
+.sprite-postoffice {
+    width: 21px;
+    height: 11px;
+    background-position: -166px -285px;
+}
+
+.sprite-power_line {
+    width: 15px;
+    height: 4px;
+    background-position: -240px -285px;
+}
+
+.sprite-power_pole {
+    width: 3px;
+    height: 3px;
+    background-position: -181px -36px;
+}
+
+.sprite-power_tower {
+    width: 7px;
+    height: 7px;
+    background-position: -320px -164px;
+}
+
+.sprite-power_tower_3x3 {
+    width: 3px;
+    height: 3px;
+    background-position: -194px -36px;
+}
+
+.sprite-power_tower_5x5 {
+    width: 5px;
+    height: 5px;
+    background-position: -34px -98px;
+}
+
+.sprite-power_wind {
+    width: 16px;
+    height: 26px;
+    background-position: -265px -285px;
+}
+
+.sprite-pri_shield1 {
+    width: 17px;
+    height: 17px;
+    background-position: -322px -285px;
+}
+
+.sprite-pri_shield2 {
+    width: 24px;
+    height: 17px;
+    background-position: -349px -285px;
+}
+
+.sprite-pri_shield3 {
+    width: 31px;
+    height: 17px;
+    background-position: -383px -283px;
+}
+
+.sprite-pri_shield4 {
+    width: 38px;
+    height: 17px;
+    background-position: -424px -283px;
+}
+
+.sprite-pri_shield5 {
+    width: 45px;
+    height: 17px;
+    background-position: -166px -310px;
+}
+
+.sprite-pri_shield6 {
+    width: 52px;
+    height: 17px;
+    background-position: -383px -310px;
+}
+
+.sprite-pri_shield7 {
+    width: 59px;
+    height: 17px;
+    background-position: -445px -310px;
+}
+
+.sprite-pri_shield8 {
+    width: 66px;
+    height: 17px;
+    background-position: -57px -337px;
+}
+
+.sprite-primary_shield1 {
+    width: 17px;
+    height: 17px;
+    background-position: -133px -337px;
+}
+
+.sprite-primary_shield2 {
+    width: 24px;
+    height: 17px;
+    background-position: -160px -337px;
+}
+
+.sprite-primary_shield3 {
+    width: 31px;
+    height: 17px;
+    background-position: -194px -337px;
+}
+
+.sprite-primary_shield4 {
+    width: 38px;
+    height: 17px;
+    background-position: -235px -337px;
+}
+
+.sprite-primary_shield5 {
+    width: 45px;
+    height: 17px;
+    background-position: -283px -337px;
+}
+
+.sprite-primary_shield6 {
+    width: 52px;
+    height: 17px;
+    background-position: -338px -337px;
+}
+
+.sprite-primary_shield7 {
+    width: 59px;
+    height: 17px;
+    background-position: -400px -337px;
+}
+
+.sprite-primary_shield8 {
+    width: 66px;
+    height: 17px;
+    background-position: -5px -364px;
+}
+
+.sprite-ps {
+    width: 20px;
+    height: 20px;
+    background-position: -469px -337px;
+}
+
+.sprite-pub {
+    width: 16px;
+    height: 16px;
+    background-position: -81px -367px;
+}
+
+.sprite-pub-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -107px -367px;
+}
+
+.sprite-quarry {
+    width: 30px;
+    height: 30px;
+    background-position: -133px -367px;
+}
+
+.sprite-quarry2 {
+    width: 30px;
+    height: 30px;
+    background-position: -173px -367px;
+}
+
+.sprite-recycle {
+    width: 24px;
+    height: 24px;
+    background-position: -213px -367px;
+}
+
+.sprite-recycling {
+    width: 20px;
+    height: 20px;
+    background-position: -247px -367px;
+}
+
+.sprite-recycling-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -277px -367px;
+}
+
+.sprite-rental_bicycle-p-20 {
+    width: 20px;
+    height: 20px;
+    background-position: -303px -367px;
+}
+
+.sprite-restaurant-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -367px;
+}
+
+.sprite-roadcam {
+    width: 25px;
+    height: 23px;
+    background-position: -359px -367px;
+}
+
+.sprite-school {
+    width: 16px;
+    height: 16px;
+    background-position: -394px -367px;
+}
+
+.sprite-scrub {
+    width: 30px;
+    height: 30px;
+    background-position: -420px -367px;
+}
+
+.sprite-sec_shield1 {
+    width: 17px;
+    height: 17px;
+    background-position: -460px -367px;
+}
+
+.sprite-sec_shield2 {
+    width: 24px;
+    height: 17px;
+    background-position: -5px -394px;
+}
+
+.sprite-sec_shield3 {
+    width: 31px;
+    height: 17px;
+    background-position: -39px -394px;
+}
+
+.sprite-sec_shield4 {
+    width: 38px;
+    height: 17px;
+    background-position: -80px -394px;
+}
+
+.sprite-sec_shield5 {
+    width: 45px;
+    height: 17px;
+    background-position: -460px -394px;
+}
+
+.sprite-sec_shield6 {
+    width: 52px;
+    height: 17px;
+    background-position: -128px -407px;
+}
+
+.sprite-sec_shield7 {
+    width: 59px;
+    height: 17px;
+    background-position: -5px -421px;
+}
+
+.sprite-sec_shield8 {
+    width: 66px;
+    height: 17px;
+    background-position: -190px -407px;
+}
+
+.sprite-secondary_shield1 {
+    width: 17px;
+    height: 17px;
+    background-position: -487px -367px;
+}
+
+.sprite-secondary_shield2 {
+    width: 24px;
+    height: 17px;
+    background-position: -74px -421px;
+}
+
+.sprite-secondary_shield3 {
+    width: 31px;
+    height: 17px;
+    background-position: -266px -421px;
+}
+
+.sprite-secondary_shield4 {
+    width: 38px;
+    height: 17px;
+    background-position: -307px -421px;
+}
+
+.sprite-secondary_shield5 {
+    width: 45px;
+    height: 17px;
+    background-position: -355px -421px;
+}
+
+.sprite-secondary_shield6 {
+    width: 52px;
+    height: 17px;
+    background-position: -410px -421px;
+}
+
+.sprite-secondary_shield7 {
+    width: 59px;
+    height: 17px;
+    background-position: -5px -448px;
+}
+
+.sprite-secondary_shield8 {
+    width: 66px;
+    height: 17px;
+    background-position: -74px -448px;
+}
+
+.sprite-shelter2-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -277px -394px;
+}
+
+.sprite-shop_bakery-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -394px;
+}
+
+.sprite-shop_butcher {
+    width: 16px;
+    height: 16px;
+    background-position: -394px -394px;
+}
+
+.sprite-shop_clothes-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -472px -421px;
+}
+
+.sprite-shop_convenience-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -150px -447px;
+}
+
+.sprite-shop_diy-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -176px -447px;
+}
+
+.sprite-shop_hairdresser-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -202px -447px;
+}
+
+.sprite-shop_supermarket-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -228px -447px;
+}
+
+.sprite-shopping_bicycle-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -472px -447px;
+}
+
+.sprite-shopping_car-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -150px -473px;
+}
+
+.sprite-shopping_car_repair-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -176px -473px;
+}
+
+.sprite-sikh {
+    width: 25px;
+    height: 26px;
+    background-position: -202px -473px;
+}
+
+.sprite-sikh3-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -237px -473px;
+}
+
+.sprite-sosphone {
+    width: 16px;
+    height: 14px;
+    background-position: -472px -285px;
+}
+
+.sprite-spring {
+    width: 5px;
+    height: 7px;
+    background-position: -197px -285px;
+}
+
+.sprite-station {
+    width: 9px;
+    height: 9px;
+    background-position: -498px -285px;
+}
+
+.sprite-station_disused {
+    width: 6px;
+    height: 6px;
+    background-position: -57px -304px;
+}
+
+.sprite-station_small {
+    width: 6px;
+    height: 6px;
+    background-position: -221px -304px;
+}
+
+.sprite-synagogue {
+    width: 16px;
+    height: 18px;
+    background-position: -237px -309px;
+}
+
+.sprite-telephone-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -263px -473px;
+}
+
+.sprite-ter_shield1 {
+    width: 17px;
+    height: 17px;
+    background-position: -291px -304px;
+}
+
+.sprite-ter_shield2 {
+    width: 24px;
+    height: 17px;
+    background-position: -289px -473px;
+}
+
+.sprite-ter_shield3 {
+    width: 31px;
+    height: 17px;
+    background-position: -323px -473px;
+}
+
+.sprite-ter_shield4 {
+    width: 38px;
+    height: 17px;
+    background-position: -364px -473px;
+}
+
+.sprite-ter_shield5 {
+    width: 45px;
+    height: 17px;
+    background-position: -412px -448px;
+}
+
+.sprite-ter_shield6 {
+    width: 52px;
+    height: 17px;
+    background-position: -5px -475px;
+}
+
+.sprite-ter_shield7 {
+    width: 59px;
+    height: 17px;
+    background-position: -67px -475px;
+}
+
+.sprite-ter_shield8 {
+    width: 66px;
+    height: 17px;
+    background-position: -412px -475px;
+}
+
+.sprite-tertiary_shield1 {
+    width: 17px;
+    height: 17px;
+    background-position: -488px -473px;
+}
+
+.sprite-tertiary_shield2 {
+    width: 24px;
+    height: 17px;
+    background-position: -518px -5px;
+}
+
+.sprite-tertiary_shield3 {
+    width: 31px;
+    height: 17px;
+    background-position: -509px -98px;
+}
+
+.sprite-tertiary_shield4 {
+    width: 38px;
+    height: 17px;
+    background-position: -506px -164px;
+}
+
+.sprite-tertiary_shield5 {
+    width: 45px;
+    height: 17px;
+    background-position: -499px -337px;
+}
+
+.sprite-tertiary_shield6 {
+    width: 52px;
+    height: 17px;
+    background-position: -136px -500px;
+}
+
+.sprite-tertiary_shield7 {
+    width: 59px;
+    height: 17px;
+    background-position: -5px -502px;
+}
+
+.sprite-tertiary_shield8 {
+    width: 66px;
+    height: 17px;
+    background-position: -237px -502px;
+}
+
+.sprite-theatre-p-20 {
+    width: 20px;
+    height: 20px;
+    background-position: -518px -32px;
+}
+
+.sprite-toilets-p-20 {
+    width: 20px;
+    height: 20px;
+    background-position: -519px -62px;
+}
+
+.sprite-tourist_archaeological2-glow-16 {
+    width: 24px;
+    height: 24px;
+    background-position: -512px -125px;
+}
+
+.sprite-tourist_memorial-p-20 {
+    width: 20px;
+    height: 20px;
+    background-position: -509px -191px;
+}
+
+.sprite-tower {
+    width: 32px;
+    height: 32px;
+    background-position: -498px -421px;
+}
+
+.sprite-tower_water-p-20 {
+    width: 20px;
+    height: 20px;
+    background-position: -514px -221px;
+}
+
+.sprite-traffic_light {
+    width: 16px;
+    height: 16px;
+    background-position: -514px -251px;
+}
+
+.sprite-transport_ford-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -517px -277px;
+}
+
+.sprite-transport_slipway-p-20 {
+    width: 20px;
+    height: 20px;
+    background-position: -517px -303px;
+}
+
+.sprite-tree {
+    width: 3px;
+    height: 3px;
+    background-position: -256px -32px;
+}
+
+.sprite-tree2 {
+    width: 5px;
+    height: 5px;
+    background-position: -141px -62px;
+}
+
+.sprite-tru_shield1 {
+    width: 17px;
+    height: 17px;
+    background-position: -514px -364px;
+}
+
+.sprite-tru_shield2 {
+    width: 24px;
+    height: 17px;
+    background-position: -515px -391px;
+}
+
+.sprite-tru_shield3 {
+    width: 31px;
+    height: 17px;
+    background-position: -313px -500px;
+}
+
+.sprite-tru_shield4 {
+    width: 38px;
+    height: 17px;
+    background-position: -354px -500px;
+}
+
+.sprite-tru_shield5 {
+    width: 45px;
+    height: 17px;
+    background-position: -488px -500px;
+}
+
+.sprite-tru_shield6 {
+    width: 52px;
+    height: 17px;
+    background-position: -552px -5px;
+}
+
+.sprite-tru_shield7 {
+    width: 59px;
+    height: 17px;
+    background-position: -546px -125px;
+}
+
+.sprite-tru_shield8 {
+    width: 66px;
+    height: 17px;
+    background-position: -539px -191px;
+}
+
+.sprite-trunk_shield1 {
+    width: 17px;
+    height: 17px;
+    background-position: -548px -32px;
+}
+
+.sprite-trunk_shield2 {
+    width: 24px;
+    height: 17px;
+    background-position: -575px -32px;
+}
+
+.sprite-trunk_shield3 {
+    width: 31px;
+    height: 17px;
+    background-position: -549px -59px;
+}
+
+.sprite-trunk_shield4 {
+    width: 38px;
+    height: 17px;
+    background-position: -550px -86px;
+}
+
+.sprite-trunk_shield5 {
+    width: 45px;
+    height: 17px;
+    background-position: -554px -152px;
+}
+
+.sprite-trunk_shield6 {
+    width: 52px;
+    height: 17px;
+    background-position: -544px -218px;
+}
+
+.sprite-trunk_shield7 {
+    width: 59px;
+    height: 17px;
+    background-position: -544px -245px;
+}
+
+.sprite-trunk_shield8 {
+    width: 66px;
+    height: 17px;
+    background-position: -540px -418px;
+}
+
+.sprite-turning_circle-13 {
+    width: 13px;
+    height: 13px;
+    background-position: -156px -59px;
+}
+
+.sprite-turning_circle-15 {
+    width: 15px;
+    height: 15px;
+    background-position: -590px -59px;
+}
+
+.sprite-turning_circle-17 {
+    width: 17px;
+    height: 17px;
+    background-position: -543px -272px;
+}
+
+.sprite-turning_circle-19 {
+    width: 19px;
+    height: 19px;
+    background-position: -570px -272px;
+}
+
+.sprite-turning_circle-livs-fill-14 {
+    width: 14px;
+    height: 14px;
+    background-position: -426px -59px;
+}
+
+.sprite-turning_circle-livs-fill-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -161px -113px;
+}
+
+.sprite-turning_circle-livs-fill-22 {
+    width: 22px;
+    height: 22px;
+    background-position: -547px -301px;
+}
+
+.sprite-turning_circle-tert-casing-18 {
+    width: 18px;
+    height: 18px;
+    background-position: -579px -301px;
+}
+
+.sprite-turning_circle-tert-casing-24 {
+    width: 24px;
+    height: 24px;
+    background-position: -579px -329px;
+}
+
+.sprite-turning_circle-tert-fill-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -187px -113px;
+}
+
+.sprite-turning_circle-tert-fill-22 {
+    width: 22px;
+    height: 22px;
+    background-position: -554px -363px;
+}
+
+.sprite-turning_circle-uncl-casing-14 {
+    width: 14px;
+    height: 14px;
+    background-position: -417px -113px;
+}
+
+.sprite-turning_circle-uncl-casing-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -586px -363px;
+}
+
+.sprite-turning_circle-uncl-casing-18 {
+    width: 18px;
+    height: 18px;
+    background-position: -586px -389px;
+}
+
+.sprite-turning_circle-uncl-casing-24 {
+    width: 24px;
+    height: 24px;
+    background-position: -540px -445px;
+}
+
+.sprite-turning_circle-uncl-fill-12 {
+    width: 12px;
+    height: 12px;
+    background-position: -574px -445px;
+}
+
+.sprite-turning_circle-uncl-fill-14 {
+    width: 14px;
+    height: 14px;
+    background-position: -515px -467px;
+}
+
+.sprite-turning_circle-uncl-fill-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -574px -467px;
+}
+
+.sprite-turning_circle-uncl-fill-18 {
+    width: 18px;
+    height: 18px;
+    background-position: -543px -493px;
+}
+
+.sprite-turning_circle-uncl-fill-22 {
+    width: 22px;
+    height: 22px;
+    background-position: -571px -493px;
+}
+
+.sprite-turning_circle-uncl-fill-24 {
+    width: 24px;
+    height: 24px;
+    background-position: -74px -525px;
+}
+
+.sprite-view_point-p-16 {
+    width: 16px;
+    height: 16px;
+    background-position: -108px -525px;
+}
+
+.sprite-vineyard {
+    width: 29px;
+    height: 29px;
+    background-position: -198px -525px;
+}
+
+.sprite-volcano {
+    width: 9px;
+    height: 8px;
+    background-position: -45px -179px;
+}
+
+.sprite-walking-n-12 {
+    width: 12px;
+    height: 12px;
+    background-position: -402px -525px;
+}
+
+.sprite-water {
+    width: 5px;
+    height: 5px;
+    background-position: -598px -84px;
+}
+
+.sprite-wellsite {
+    width: 10px;
+    height: 10px;
+    background-position: -596px -445px;
+}
+
+.sprite-wellsite2 {
+    width: 10px;
+    height: 10px;
+    background-position: -424px -525px;
+}
+
+.sprite-windmill {
+    width: 10px;
+    height: 15px;
+    background-position: -444px -525px;
+}
+
+.sprite-zoo {
+    width: 21px;
+    height: 24px;
+    background-position: -543px -525px;
+}
