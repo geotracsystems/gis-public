@@ -1,0 +1,23 @@
+{
+  "AB-provincial_highway_60x45": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 45,
+    "x": 0,
+    "y": 0
+  },
+  "AB-secondary_highway_60x45": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 45,
+    "x": 45,
+    "y": 0
+  },
+  "Alberta_Highway_1_60x45": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 45,
+    "x": 0,
+    "y": 60
+  }
+}
