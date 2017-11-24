@@ -1,23 +1,114 @@
 {
-  "AB-provincial_highway_60x45": {
-    "height": 60,
+  "AB-provincial_highway_18": {
+    "height": 18,
     "pixelRatio": 1,
-    "width": 45,
+    "width": 13,
     "x": 0,
     "y": 0
   },
-  "AB-secondary_highway_60x45": {
-    "height": 60,
+  "AB-secondary_highway_18": {
+    "height": 17,
     "pixelRatio": 1,
-    "width": 45,
-    "x": 45,
+    "width": 13,
+    "x": 27,
+    "y": 54
+  },
+  "Alberta_Highway_1_18": {
+    "height": 17,
+    "pixelRatio": 1,
+    "width": 13,
+    "x": 51,
     "y": 0
   },
-  "Alberta_Highway_1_60x45": {
-    "height": 60,
+  "BC-blank_18": {
+    "height": 18,
     "pixelRatio": 1,
-    "width": 45,
+    "width": 15,
     "x": 0,
-    "y": 60
+    "y": 18
+  },
+  "BC_Highway_Narrow_Shield_18": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 15,
+    "x": 13,
+    "y": 0
+  },
+  "BC_Highway_Wide_Shield_18": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 23,
+    "x": 28,
+    "y": 0
+  },
+  "Manitoba_blank_18": {
+    "height": 17,
+    "pixelRatio": 1,
+    "width": 14,
+    "x": 64,
+    "y": 0
+  },
+  "Manitoba_blank_new_18": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 14,
+    "x": 15,
+    "y": 18
+  },
+  "Manitoba_secondary_blank_18": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 17,
+    "x": 29,
+    "y": 18
+  },
+  "Nova_Scotia_blank_18": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 14,
+    "x": 0,
+    "y": 36
+  },
+  "Ontario_Blank_EDR_18": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 13,
+    "x": 14,
+    "y": 36
+  },
+  "Ontario_blank_18": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 11,
+    "x": 27,
+    "y": 36
+  },
+  "PEI_Highway_blank_18": {
+    "height": 17,
+    "pixelRatio": 1,
+    "width": 15,
+    "x": 78,
+    "y": 0
+  },
+  "Saskatchewan_Highway_blank_18": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 14,
+    "x": 38,
+    "y": 36
+  },
+  "Saskatchewan_Highway_blank_alt_18": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 14,
+    "x": 0,
+    "y": 54
+  },
+  "quebec_sheild_18": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 13,
+    "x": 14,
+    "y": 54
   }
 }
