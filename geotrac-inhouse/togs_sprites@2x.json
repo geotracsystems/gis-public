@@ -418,5 +418,82 @@
     "width": 90,
     "x": 487,
     "y": 0
+  },
+  "airport": {
+    "height": 24,
+    "pixelRatio": 2,
+    "width": 24,
+    "x": 25,
+    "y": 503
+  },
+  "cbm_orange": {
+    "height": 24,
+    "pixelRatio": 2,
+    "width": 24,
+    "x": 49,
+    "y": 503
+  },
+  "comingled_greenred": {
+    "height": 24,
+    "pixelRatio": 2,
+    "width": 24,
+    "x": 73,
+    "y": 503
+  },
+  "comingled_greenred_notwork": {
+    "height": 24,
+    "pixelRatio": 2,
+    "width": 24,
+    "x": 97,
+    "y": 503
+  },
+  "fac": {
+    "height": 24,
+    "pixelRatio": 2,
+    "width": 16,
+    "x": 121,
+    "y": 503
+  },
+  "gas_darkred": {
+    "height": 24,
+    "pixelRatio": 2,
+    "width": 24,
+    "x": 137,
+    "y": 503
+  },
+  "misc_red": {
+    "height": 24,
+    "pixelRatio": 2,
+    "width": 24,
+    "x": 161,
+    "y": 503
+  },
+  "oil_green": {
+    "height": 24,
+    "pixelRatio": 2,
+    "width": 24,
+    "x": 185,
+    "y": 503
+  },
+  "plant": {
+    "height": 24,
+    "pixelRatio": 2,
+    "width": 14,
+    "x": 209,
+    "y": 503
+  },
+  "sagd_bluegreen": {
+    "height": 24,
+    "pixelRatio": 2,
+    "width": 24,
+    "x": 223,
+    "y": 503
+  },
+  "water_blue": {
+    "height": 24,
+    "pixelRatio": 2,
+    "width": 24,
+    "x": 247,
+    "y": 503
   }
 }
