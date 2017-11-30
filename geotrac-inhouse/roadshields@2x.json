@@ -1,114 +1,422 @@
 {
-  "AB-provincial_highway_18": {
-    "height": 36,
+  "AB-provincial_highway.18": {
+    "height": 32,
     "pixelRatio": 2,
-    "width": 27,
+    "width": 25,
+    "x": 169,
+    "y": 448
+  },
+  "AB-provincial_highway.30": {
+    "height": 55,
+    "pixelRatio": 2,
+    "width": 42,
+    "x": 284,
+    "y": 224
+  },
+  "AB-provincial_highway.60": {
+    "height": 112,
+    "pixelRatio": 2,
+    "width": 85,
     "x": 0,
-    "y": 37
-  },
-  "AB-secondary_highway_18": {
-    "height": 35,
-    "pixelRatio": 2,
-    "width": 27,
-    "x": 114,
-    "y": 37
-  },
-  "Alberta_Highway_1_18": {
-    "height": 35,
-    "pixelRatio": 2,
-    "width": 27,
-    "x": 141,
-    "y": 37
-  },
-  "BC-blank_18": {
-    "height": 36,
-    "pixelRatio": 2,
-    "width": 30,
-    "x": 27,
-    "y": 37
-  },
-  "BC_Highway_Narrow_Shield_18": {
-    "height": 36,
-    "pixelRatio": 2,
-    "width": 30,
-    "x": 57,
-    "y": 37
-  },
-  "BC_Highway_Wide_Shield_18": {
-    "height": 36,
-    "pixelRatio": 2,
-    "width": 46,
-    "x": 23,
     "y": 0
   },
-  "Manitoba_blank_18": {
-    "height": 35,
+  "AB-secondary_highway.18": {
+    "height": 32,
     "pixelRatio": 2,
-    "width": 28,
-    "x": 91,
-    "y": 73
+    "width": 25,
+    "x": 194,
+    "y": 448
   },
-  "Manitoba_blank_new_18": {
-    "height": 36,
+  "AB-secondary_highway.30": {
+    "height": 55,
     "pixelRatio": 2,
-    "width": 28,
+    "width": 42,
+    "x": 326,
+    "y": 224
+  },
+  "AB-secondary_highway.60": {
+    "height": 112,
+    "pixelRatio": 2,
+    "width": 85,
+    "x": 85,
+    "y": 0
+  },
+  "Alberta_Highway_1.18": {
+    "height": 32,
+    "pixelRatio": 2,
+    "width": 25,
+    "x": 219,
+    "y": 448
+  },
+  "Alberta_Highway_1.30": {
+    "height": 55,
+    "pixelRatio": 2,
+    "width": 42,
+    "x": 368,
+    "y": 224
+  },
+  "Alberta_Highway_1.60": {
+    "height": 112,
+    "pixelRatio": 2,
+    "width": 85,
     "x": 0,
-    "y": 73
+    "y": 112
   },
-  "Manitoba_secondary_blank_18": {
-    "height": 36,
+  "Alberta_provincial_highway_trailblazer.18": {
+    "height": 32,
+    "pixelRatio": 2,
+    "width": 25,
+    "x": 244,
+    "y": 448
+  },
+  "Alberta_provincial_highway_trailblazer.30": {
+    "height": 55,
+    "pixelRatio": 2,
+    "width": 42,
+    "x": 410,
+    "y": 224
+  },
+  "Alberta_provincial_highway_trailblazer.60": {
+    "height": 112,
+    "pixelRatio": 2,
+    "width": 87,
+    "x": 170,
+    "y": 0
+  },
+  "BC-blank.18": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 27,
+    "x": 490,
+    "y": 448
+  },
+  "BC-blank.30": {
+    "height": 55,
+    "pixelRatio": 2,
+    "width": 47,
+    "x": 452,
+    "y": 224
+  },
+  "BC-blank.60": {
+    "height": 110,
+    "pixelRatio": 2,
+    "width": 95,
+    "x": 577,
+    "y": 0
+  },
+  "BC_Highway_Narrow_Shield.18": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 27,
+    "x": 517,
+    "y": 448
+  },
+  "BC_Highway_Narrow_Shield.30": {
+    "height": 55,
+    "pixelRatio": 2,
+    "width": 47,
+    "x": 499,
+    "y": 224
+  },
+  "BC_Highway_Narrow_Shield.60": {
+    "height": 110,
+    "pixelRatio": 2,
+    "width": 95,
+    "x": 320,
+    "y": 112
+  },
+  "BC_Highway_Wide_Shield.18": {
+    "height": 32,
+    "pixelRatio": 2,
+    "width": 40,
+    "x": 269,
+    "y": 448
+  },
+  "BC_Highway_Wide_Shield.30": {
+    "height": 55,
+    "pixelRatio": 2,
+    "width": 70,
+    "x": 546,
+    "y": 224
+  },
+  "BC_Highway_Wide_Shield.60": {
+    "height": 112,
+    "pixelRatio": 2,
+    "width": 145,
+    "x": 85,
+    "y": 112
+  },
+  "Manitoba_blank.18": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 25,
+    "x": 544,
+    "y": 448
+  },
+  "Manitoba_blank.30": {
+    "height": 55,
+    "pixelRatio": 2,
+    "width": 45,
+    "x": 616,
+    "y": 224
+  },
+  "Manitoba_blank.60": {
+    "height": 110,
+    "pixelRatio": 2,
+    "width": 90,
+    "x": 415,
+    "y": 112
+  },
+  "Manitoba_blank_(new).18": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 25,
+    "x": 569,
+    "y": 448
+  },
+  "Manitoba_blank_(new).30": {
+    "height": 55,
+    "pixelRatio": 2,
+    "width": 45,
+    "x": 292,
+    "y": 336
+  },
+  "Manitoba_blank_(new).60": {
+    "height": 112,
+    "pixelRatio": 2,
+    "width": 90,
+    "x": 230,
+    "y": 112
+  },
+  "Manitoba_secondary_blank.18": {
+    "height": 32,
+    "pixelRatio": 2,
+    "width": 32,
+    "x": 309,
+    "y": 448
+  },
+  "Manitoba_secondary_blank.30": {
+    "height": 55,
+    "pixelRatio": 2,
+    "width": 55,
+    "x": 337,
+    "y": 336
+  },
+  "Manitoba_secondary_blank.60": {
+    "height": 112,
+    "pixelRatio": 2,
+    "width": 112,
+    "x": 0,
+    "y": 224
+  },
+  "NShw_blank.18": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 22,
+    "x": 594,
+    "y": 448
+  },
+  "NShw_blank.30": {
+    "height": 52,
+    "pixelRatio": 2,
+    "width": 37,
+    "x": 45,
+    "y": 448
+  },
+  "NShw_blank.60": {
+    "height": 110,
+    "pixelRatio": 2,
+    "width": 77,
+    "x": 505,
+    "y": 112
+  },
+  "Nova_Scotia_blank.18": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 25,
+    "x": 616,
+    "y": 448
+  },
+  "Nova_Scotia_blank.30": {
+    "height": 52,
+    "pixelRatio": 2,
+    "width": 42,
+    "x": 82,
+    "y": 448
+  },
+  "Nova_Scotia_blank.60": {
+    "height": 112,
+    "pixelRatio": 2,
+    "width": 87,
+    "x": 112,
+    "y": 224
+  },
+  "Ontario_Blank_EDR.18": {
+    "height": 32,
+    "pixelRatio": 2,
+    "width": 25,
+    "x": 341,
+    "y": 448
+  },
+  "Ontario_Blank_EDR.30": {
+    "height": 55,
+    "pixelRatio": 2,
+    "width": 42,
+    "x": 392,
+    "y": 336
+  },
+  "Ontario_Blank_EDR.60": {
+    "height": 112,
+    "pixelRatio": 2,
+    "width": 85,
+    "x": 199,
+    "y": 224
+  },
+  "Ontario_blank.18": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 20,
+    "x": 641,
+    "y": 448
+  },
+  "Ontario_blank.30": {
+    "height": 55,
     "pixelRatio": 2,
     "width": 35,
-    "x": 28,
-    "y": 73
+    "x": 434,
+    "y": 336
   },
-  "Nova_Scotia_blank_18": {
-    "height": 36,
+  "Ontario_blank.60": {
+    "height": 110,
     "pixelRatio": 2,
-    "width": 28,
-    "x": 63,
-    "y": 73
+    "width": 70,
+    "x": 582,
+    "y": 112
   },
-  "Ontario_Blank_EDR_18": {
-    "height": 36,
-    "pixelRatio": 2,
-    "width": 26,
-    "x": 0,
-    "y": 109
-  },
-  "Ontario_blank_18": {
-    "height": 37,
-    "pixelRatio": 2,
-    "width": 23,
-    "x": 0,
-    "y": 0
-  },
-  "PEI_Highway_blank_18": {
-    "height": 35,
-    "pixelRatio": 2,
-    "width": 30,
-    "x": 119,
-    "y": 73
-  },
-  "Saskatchewan_Highway_blank_18": {
-    "height": 36,
-    "pixelRatio": 2,
-    "width": 28,
-    "x": 26,
-    "y": 109
-  },
-  "Saskatchewan_Highway_blank_alt_18": {
-    "height": 36,
-    "pixelRatio": 2,
-    "width": 28,
-    "x": 54,
-    "y": 109
-  },
-  "quebec_sheild_18": {
-    "height": 36,
+  "PEI_Highway_blank.18": {
+    "height": 32,
     "pixelRatio": 2,
     "width": 27,
-    "x": 87,
-    "y": 37
+    "x": 366,
+    "y": 448
+  },
+  "PEI_Highway_blank.30": {
+    "height": 52,
+    "pixelRatio": 2,
+    "width": 45,
+    "x": 124,
+    "y": 448
+  },
+  "PEI_Highway_blank.60": {
+    "height": 112,
+    "pixelRatio": 2,
+    "width": 95,
+    "x": 0,
+    "y": 336
+  },
+  "Qc_sheild.18": {
+    "height": 32,
+    "pixelRatio": 2,
+    "width": 25,
+    "x": 393,
+    "y": 448
+  },
+  "Qc_sheild.30": {
+    "height": 55,
+    "pixelRatio": 2,
+    "width": 42,
+    "x": 469,
+    "y": 336
+  },
+  "Qc_sheild.60": {
+    "height": 112,
+    "pixelRatio": 2,
+    "width": 85,
+    "x": 95,
+    "y": 336
+  },
+  "Reginal_Road.18": {
+    "height": 32,
+    "pixelRatio": 2,
+    "width": 32,
+    "x": 418,
+    "y": 448
+  },
+  "Reginal_Road.30": {
+    "height": 55,
+    "pixelRatio": 2,
+    "width": 55,
+    "x": 511,
+    "y": 336
+  },
+  "Reginal_Road.60": {
+    "height": 112,
+    "pixelRatio": 2,
+    "width": 112,
+    "x": 180,
+    "y": 336
+  },
+  "Regional_Road.18": {
+    "height": 32,
+    "pixelRatio": 2,
+    "width": 40,
+    "x": 450,
+    "y": 448
+  },
+  "Regional_Road.30": {
+    "height": 55,
+    "pixelRatio": 2,
+    "width": 67,
+    "x": 566,
+    "y": 336
+  },
+  "Regional_Road.60": {
+    "height": 112,
+    "pixelRatio": 2,
+    "width": 140,
+    "x": 257,
+    "y": 0
+  },
+  "Saskatchewan_Highway_blank.18": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 25,
+    "x": 652,
+    "y": 112
+  },
+  "Saskatchewan_Highway_blank.30": {
+    "height": 55,
+    "pixelRatio": 2,
+    "width": 45,
+    "x": 633,
+    "y": 336
+  },
+  "Saskatchewan_Highway_blank.60": {
+    "height": 112,
+    "pixelRatio": 2,
+    "width": 90,
+    "x": 397,
+    "y": 0
+  },
+  "Saskatchewan_Highway_blank_alt.18": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 25,
+    "x": 0,
+    "y": 503
+  },
+  "Saskatchewan_Highway_blank_alt.30": {
+    "height": 55,
+    "pixelRatio": 2,
+    "width": 45,
+    "x": 0,
+    "y": 448
+  },
+  "Saskatchewan_Highway_blank_alt.60": {
+    "height": 112,
+    "pixelRatio": 2,
+    "width": 90,
+    "x": 487,
+    "y": 0
   }
 }
